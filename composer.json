@@ -1,0 +1,8 @@
+{
+    "name": "your-project/name",
+    "description": "A short description of your project",
+    "require": {
+        "php": "^8.2",
+        "predis/predis": "^2.2"
+    }
+}
